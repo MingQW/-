@@ -2,6 +2,7 @@
 
 This project which I want to send to appStore, but someday I found it's similarity to someone's app,
 so I share with all people.
+这个项目我本来是要上传到苹果应用商店的，但去偶然发现有一款和我的很相似，就拿来和大家分享了，代码写得不怎样，欢迎提意见（qq：1246489125）。
 
 项目就不介绍了，就简单说一下波纹和雷达空间的使用。
 波纹和雷达的文件在这个文件夹里面，拿出来即可直接使用。
