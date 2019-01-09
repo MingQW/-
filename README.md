@@ -4,7 +4,8 @@ This project which I want to send to appStore, but someday I found that it's sim
 so I share with all people.
 
 项目就不介绍了，就简单说一下波纹和雷达空间的使用。
-
+波纹和雷达的文件在这个文件夹里面，拿出来即可直接使用。
+![image](https://github.com/MingQW/WaveAndRadarAnimation/blob/master/QQ20190109-175113.png?raw=true)
 
 波纹使用方法：
 WaterWave *waterWave = [[WaterWave alloc] initWithFrame:CGRectMake(100, 100, 40, 40)];
