@@ -1,6 +1,6 @@
 # WaveAndRadarAnimation
 
-This project which I want to send to appStore, but someday I found that it's similarity to someone's app,
+This project which I want to send to appStore, but someday I found it's similarity to someone's app,
 so I share with all people.
 
 项目就不介绍了，就简单说一下波纹和雷达空间的使用。
